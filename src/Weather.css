@@ -1,0 +1,13 @@
+.weather-card{
+    background-color: white;
+    border-radius: 8px;
+    width:300px;
+    height:100px;
+
+}
+
+.weather-cards{
+    display: flex;
+    margin-top: 20px;
+    justify-content: space-around;
+}
