@@ -40,7 +40,7 @@ function Weather() {
                 <button type="submit" style={{ padding: '10px 20px',backgroundColor:'green',color:'white',border:'none' }}>Search</button>
             </form>
 
-            {loading && <p> Loading data…</p>}
+            {loading && <p>Loading data...</p>}
 
             
             {weatherData && (
